@@ -912,8 +912,8 @@ NOTE:  If you want to ignore case for just one search command, use  \c
   5. Press <TAB>  and Vim will complete the command name to ":edit".
 
   6. Now add a space and the start of an existing file name:  :edit FIL
-
-  7. Press <TAB>.  Vim will complete the name (if it is unique).
+  7. 
+  8. Press <TAB>.  Vim will complete the name (if it is unique).
 
 NOTE:  Completion works for many commands.  Just try pressing CTRL-D and
        <TAB>.  It is especially useful for  :help .
